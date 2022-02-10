@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Muttern</folder>
+  <filename>nut14</filename>
+  <path>C:/Users/Oscar/Documents/Image Processing/Schrauben_Detection/images/Muttern/nut14.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nut4</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>142</xmin>
+      <ymin>217</ymin>
+      <xmax>202</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Schrauben</folder>
+  <filename>screw37</filename>
+  <path>C:/Users/Oscar/Documents/Image Processing/Schrauben_Detection/images/Schrauben/screw37.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>screw7</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>323</xmin>
+      <ymin>123</ymin>
+      <xmax>415</xmax>
+      <ymax>430</ymax>
+    </bndbox>
+  </object>
+</annotation>
