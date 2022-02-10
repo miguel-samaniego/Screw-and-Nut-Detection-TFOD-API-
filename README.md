@@ -1,6 +1,7 @@
 # Image Processing Coursework
 
-<p>This repository contains all the files used to create and train an object detection model that is able to distinguish between nuts and screws. The Jupyter Notebooks inlcuded in this repository contains all the instructions and scripts that were used to train the custom object detection model. The Jupyter Notebooks and the scripts included in this repository are a property of <a href="https://www.youtube.com/c/nicholasrenotte">Nicholas Renotte</a>. The team made slight modifications to these scripts and the notebooks to fit the purpose of our application. Nicholas Renotte's <a href=https://www.youtube.com/watch?v=yqkISICHH-U&t=4178s>Tensorflow Object Detection Tutorial</a>  was referenced to create the custom detection model presented in this coursework. 
+<p>This repository contains all the files used to create and train an object detection model that is able to distinguish between nuts and screws. The Jupyter Notebooks included in this repository contain all the instructions and scripts that were used to train the custom object detection model. 
+<p><a href="https://www.youtube.com/c/nicholasrenotte">Nicholas Renotte</a>'s <a href=https://www.youtube.com/watch?v=yqkISICHH-U&t=4178s>Tensorflow Object Detection Tutorial</a>  was referenced to create the custom detection model presented in this coursework. The team made the corresponding modifications to the scripts and notebooks included in the tutorial to fit the purpose of the application (detection of nuts and screws).  
 <br>
 
 ## Navigating this repository
